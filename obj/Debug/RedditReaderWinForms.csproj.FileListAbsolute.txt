@@ -1,0 +1,11 @@
+F:\SOFTWARE\Reddit Reader (WinForms)\RedditReaderWinForms\RedditReaderWinForms\RedditReaderWinForms\bin\Debug\RedditReaderWinForms.exe.config
+F:\SOFTWARE\Reddit Reader (WinForms)\RedditReaderWinForms\RedditReaderWinForms\RedditReaderWinForms\bin\Debug\RedditReaderWinForms.exe
+F:\SOFTWARE\Reddit Reader (WinForms)\RedditReaderWinForms\RedditReaderWinForms\RedditReaderWinForms\bin\Debug\RedditReaderWinForms.pdb
+F:\SOFTWARE\Reddit Reader (WinForms)\RedditReaderWinForms\RedditReaderWinForms\RedditReaderWinForms\obj\Debug\RedditReaderWinForms.csprojResolveAssemblyReference.cache
+F:\SOFTWARE\Reddit Reader (WinForms)\RedditReaderWinForms\RedditReaderWinForms\RedditReaderWinForms\obj\Debug\RedditReaderWinForms.Form1.resources
+F:\SOFTWARE\Reddit Reader (WinForms)\RedditReaderWinForms\RedditReaderWinForms\RedditReaderWinForms\obj\Debug\RedditReaderWinForms.Properties.Resources.resources
+F:\SOFTWARE\Reddit Reader (WinForms)\RedditReaderWinForms\RedditReaderWinForms\RedditReaderWinForms\obj\Debug\RedditReaderWinForms.csproj.GenerateResource.Cache
+F:\SOFTWARE\Reddit Reader (WinForms)\RedditReaderWinForms\RedditReaderWinForms\RedditReaderWinForms\obj\Debug\RedditReaderWinForms.exe
+F:\SOFTWARE\Reddit Reader (WinForms)\RedditReaderWinForms\RedditReaderWinForms\RedditReaderWinForms\obj\Debug\RedditReaderWinForms.pdb
+F:\SOFTWARE\Reddit Reader (WinForms)\RedditReaderWinForms\RedditReaderWinForms\RedditReaderWinForms\bin\Debug\Newtonsoft.Json.dll
+F:\SOFTWARE\Reddit Reader (WinForms)\RedditReaderWinForms\RedditReaderWinForms\RedditReaderWinForms\bin\Debug\Newtonsoft.Json.xml
