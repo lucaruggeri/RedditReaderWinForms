@@ -4,21 +4,27 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-using RedditReaderWinForms.Model;
+using RedditReaderWinForms.JSONModel;
 using Newtonsoft.Json;
 using System.Net.Http;
 using System.Windows.Forms;
 using System.Resources;
 
-namespace RedditReaderWinForms.RedditManager
+namespace RedditReaderWinForms.Caller
 {
-    public static class RedditManager
+    public static class RedditCaller
     {
-        private const string completeUri = "https://www.reddit.com/r/sadcringe.json";
+        private const string uri1 = "https://www.reddit.com/r/";
+        private const string uri2 = ".json";
 
-        public static async Task GetResponse(ListBox myListBox)
+        public static async Task<RedditRootobject> GetResponse(string subreddit)
         {
-            string testResponse = await CallRemoteApi_LoadResponse();
+            if (subreddit.Trim() == string.Empty)
+            {
+                throw new System.ArgumentException("Parameter 'subreddit' is empty", "subreddit");
+            }
+
+            string testResponse = await CallRemoteApi_LoadResponse(uri1 + subreddit + uri2);
 
             //deserialize response
             if (testResponse != null)
@@ -29,19 +35,21 @@ namespace RedditReaderWinForms.RedditManager
                 //use response
                 if (g != null)
                 {
-                    List<string> myList = new List<string>();
-                    foreach(var children in g.data.children)
-                    {
-                        myList.Add(children.data.title);
-                    }
-
-                    myListBox.DataSource = myList;
+                    return g;
                 }
+                else
+                {
+                    return null;
+                }
+            }
+            else
+            {
+                return null;
             }
         }
 
 
-        private static async Task<string> CallRemoteApi_LoadResponse()
+        private static async Task<string> CallRemoteApi_LoadResponse(string completeUri)
         {
             HttpClient client = WebAPI.WebAPI.CreateHttpClient(completeUri);
 

@@ -9,3 +9,14 @@ F:\SOFTWARE\Reddit Reader (WinForms)\RedditReaderWinForms\RedditReaderWinForms\R
 F:\SOFTWARE\Reddit Reader (WinForms)\RedditReaderWinForms\RedditReaderWinForms\RedditReaderWinForms\obj\Debug\RedditReaderWinForms.pdb
 F:\SOFTWARE\Reddit Reader (WinForms)\RedditReaderWinForms\RedditReaderWinForms\RedditReaderWinForms\bin\Debug\Newtonsoft.Json.dll
 F:\SOFTWARE\Reddit Reader (WinForms)\RedditReaderWinForms\RedditReaderWinForms\RedditReaderWinForms\bin\Debug\Newtonsoft.Json.xml
+C:\SOFTWARE\Reddit Reader (WinForms)\RedditReaderWinForms\RedditReaderWinForms\RedditReaderWinForms\bin\Debug\RedditReaderWinForms.exe.config
+C:\SOFTWARE\Reddit Reader (WinForms)\RedditReaderWinForms\RedditReaderWinForms\RedditReaderWinForms\obj\Debug\RedditReaderWinForms.exe
+C:\SOFTWARE\Reddit Reader (WinForms)\RedditReaderWinForms\RedditReaderWinForms\RedditReaderWinForms\obj\Debug\RedditReaderWinForms.pdb
+C:\SOFTWARE\Reddit Reader (WinForms)\RedditReaderWinForms\RedditReaderWinForms\RedditReaderWinForms\bin\Debug\RedditReaderWinForms.exe
+C:\SOFTWARE\Reddit Reader (WinForms)\RedditReaderWinForms\RedditReaderWinForms\RedditReaderWinForms\bin\Debug\RedditReaderWinForms.pdb
+C:\SOFTWARE\Reddit Reader (WinForms)\RedditReaderWinForms\RedditReaderWinForms\RedditReaderWinForms\bin\Debug\Newtonsoft.Json.dll
+C:\SOFTWARE\Reddit Reader (WinForms)\RedditReaderWinForms\RedditReaderWinForms\RedditReaderWinForms\bin\Debug\Newtonsoft.Json.xml
+C:\SOFTWARE\Reddit Reader (WinForms)\RedditReaderWinForms\RedditReaderWinForms\RedditReaderWinForms\obj\Debug\RedditReaderWinForms.Form1.resources
+C:\SOFTWARE\Reddit Reader (WinForms)\RedditReaderWinForms\RedditReaderWinForms\RedditReaderWinForms\obj\Debug\RedditReaderWinForms.Properties.Resources.resources
+C:\SOFTWARE\Reddit Reader (WinForms)\RedditReaderWinForms\RedditReaderWinForms\RedditReaderWinForms\obj\Debug\RedditReaderWinForms.csproj.GenerateResource.Cache
+C:\SOFTWARE\Reddit Reader (WinForms)\RedditReaderWinForms\RedditReaderWinForms\RedditReaderWinForms\obj\Debug\RedditReaderWinForms.csprojResolveAssemblyReference.cache

@@ -49,6 +49,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Business\Global\Global.cs" />
+    <Compile Include="JSONManager\Converter\RedditConverter.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -56,10 +58,12 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="Model\RedditModel.cs" />
+    <Compile Include="Model\RedditList.cs" />
+    <Compile Include="Model\RedditJSONModel.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="RedditManager\RedditManager.cs" />
-    <Compile Include="WebAPI\WebAPI.cs" />
+    <Compile Include="JSONManager\Caller\RedditCaller.cs" />
+    <Compile Include="JSONManager\WebAPI\WebAPI.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
