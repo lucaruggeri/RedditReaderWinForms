@@ -60,7 +60,7 @@ namespace RedditReaderWinForms
             }
             catch(Exception exc)
             {
-
+                //THIS IS FOR A GITHUB TEST
             }
         }
     }
